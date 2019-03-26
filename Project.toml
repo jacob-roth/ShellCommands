@@ -1,0 +1,4 @@
+name = "ShellCommands"
+uuid = "b49565d4-5022-11e9-2ebc-bd6be1c24c3a"
+authors = ["Jake Roth <jmroth@uchicago.edu>"]
+version = "0.1.0"
